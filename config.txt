@@ -10,7 +10,7 @@ owner=290908670529896448
 prefix=!
 
 
-game=!help - TITΛNIUMS
+game=!help
 
 status=DND
 
@@ -25,7 +25,7 @@ status=DND
 // If you set this, the bot will also use this prefix in addition to
 // the one provided above
 //
-//altprefix=?
+altprefix=?
 
 
 // If you set these, it will change the success, warning, and error emojis
