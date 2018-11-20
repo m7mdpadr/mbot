@@ -7,10 +7,10 @@ token=NTE0MjQxMDA5OTEyMTE5MzI2.DtYWWA.iwU4NPf6onLbscedtSKZlxqyFnk
 owner=316324088865882142
 
 
-prefix=M
+prefix=m
 
 
-game=Mhelp | Mplay
+game=mhelp | mplay
 
 status=DND
 
