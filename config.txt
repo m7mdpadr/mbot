@@ -10,7 +10,7 @@ owner=316324088865882142
 prefix=M
 
 
-game=Mhelp
+game=Mhelp | Mplay
 
 status=DND
 
