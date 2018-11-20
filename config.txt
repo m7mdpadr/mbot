@@ -1,16 +1,16 @@
 ﻿
 
 
-token=
+token=NTE0MjQxMDA5OTEyMTE5MzI2.DtYWWA.iwU4NPf6onLbscedtSKZlxqyFnk
 
 
-owner=290908670529896448
+owner=316324088865882142
 
 
-prefix=!
+prefix=M
 
 
-game=!help
+game=Mhelp
 
 status=DND
 
