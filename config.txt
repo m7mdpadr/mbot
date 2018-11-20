@@ -1,7 +1,7 @@
 ﻿
 
 
-token=NDc3MzIzMzU1NzEyNjUxMjk0.DqqVQw.6FV4ghVgoju53vko5ob7YOlN7Uw
+token=
 
 
 owner=290908670529896448
